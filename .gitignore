@@ -1,0 +1,10 @@
+*.bak
+*.lck
+*-cache/
+fp-info-cache
+_autosave*
+*.dsn
+*.net
+*.zip
+__pycache__/
+*.py[cod]
